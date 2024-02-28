@@ -14,6 +14,7 @@
 		A52576262B8DCA3B001110C5 /* CoreMLApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A52576242B8DCA3B001110C5 /* CoreMLApp.xcdatamodeld */; };
 		A52576282B8DCA3E001110C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A52576272B8DCA3E001110C5 /* Assets.xcassets */; };
 		A525762B2B8DCA3E001110C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A52576292B8DCA3E001110C5 /* LaunchScreen.storyboard */; };
+		A52576352B8DD64D001110C5 /* Inceptionv3.mlpackage in Sources */ = {isa = PBXBuildFile; fileRef = A52576342B8DD64D001110C5 /* Inceptionv3.mlpackage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A52576272B8DCA3E001110C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A525762A2B8DCA3E001110C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A525762C2B8DCA3E001110C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A52576342B8DD64D001110C5 /* Inceptionv3.mlpackage */ = {isa = PBXFileReference; lastKnownFileType = folder.mlpackage; path = Inceptionv3.mlpackage; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				A525761B2B8DCA3B001110C5 /* AppDelegate.swift */,
 				A525761D2B8DCA3B001110C5 /* SceneDelegate.swift */,
 				A525761F2B8DCA3B001110C5 /* ViewController.swift */,
+				A52576342B8DD64D001110C5 /* Inceptionv3.mlpackage */,
 				A52576212B8DCA3B001110C5 /* Main.storyboard */,
 				A52576272B8DCA3E001110C5 /* Assets.xcassets */,
 				A52576292B8DCA3E001110C5 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A52576202B8DCA3B001110C5 /* ViewController.swift in Sources */,
+				A52576352B8DD64D001110C5 /* Inceptionv3.mlpackage in Sources */,
 				A52576262B8DCA3B001110C5 /* CoreMLApp.xcdatamodeld in Sources */,
 				A525761C2B8DCA3B001110C5 /* AppDelegate.swift in Sources */,
 				A525761E2B8DCA3B001110C5 /* SceneDelegate.swift in Sources */,
